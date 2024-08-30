@@ -1,3 +1,4 @@
-## KUYYY 👋
+# KUYYY 👋
+My love
 # About Me
-Hello
+Computer Engineering Digital and Technology at Chulalongkorn University
